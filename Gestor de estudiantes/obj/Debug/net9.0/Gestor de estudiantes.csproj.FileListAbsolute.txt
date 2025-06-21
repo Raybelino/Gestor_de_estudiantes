@@ -1,0 +1,15 @@
+C:\Users\Jorge Rayber Acosta\Desktop\Mendez Empanadas\Gestor de estudiantes\Gestor de estudiantes\bin\Debug\net9.0\Gestor de estudiantes.exe
+C:\Users\Jorge Rayber Acosta\Desktop\Mendez Empanadas\Gestor de estudiantes\Gestor de estudiantes\bin\Debug\net9.0\Gestor de estudiantes.deps.json
+C:\Users\Jorge Rayber Acosta\Desktop\Mendez Empanadas\Gestor de estudiantes\Gestor de estudiantes\bin\Debug\net9.0\Gestor de estudiantes.runtimeconfig.json
+C:\Users\Jorge Rayber Acosta\Desktop\Mendez Empanadas\Gestor de estudiantes\Gestor de estudiantes\bin\Debug\net9.0\Gestor de estudiantes.dll
+C:\Users\Jorge Rayber Acosta\Desktop\Mendez Empanadas\Gestor de estudiantes\Gestor de estudiantes\bin\Debug\net9.0\Gestor de estudiantes.pdb
+C:\Users\Jorge Rayber Acosta\Desktop\Mendez Empanadas\Gestor de estudiantes\Gestor de estudiantes\obj\Debug\net9.0\Gestor de estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge Rayber Acosta\Desktop\Mendez Empanadas\Gestor de estudiantes\Gestor de estudiantes\obj\Debug\net9.0\Gestor de estudiantes.AssemblyInfoInputs.cache
+C:\Users\Jorge Rayber Acosta\Desktop\Mendez Empanadas\Gestor de estudiantes\Gestor de estudiantes\obj\Debug\net9.0\Gestor de estudiantes.AssemblyInfo.cs
+C:\Users\Jorge Rayber Acosta\Desktop\Mendez Empanadas\Gestor de estudiantes\Gestor de estudiantes\obj\Debug\net9.0\Gestor de estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Rayber Acosta\Desktop\Mendez Empanadas\Gestor de estudiantes\Gestor de estudiantes\obj\Debug\net9.0\Gestor de estudiantes.sourcelink.json
+C:\Users\Jorge Rayber Acosta\Desktop\Mendez Empanadas\Gestor de estudiantes\Gestor de estudiantes\obj\Debug\net9.0\Gestor de estudiantes.dll
+C:\Users\Jorge Rayber Acosta\Desktop\Mendez Empanadas\Gestor de estudiantes\Gestor de estudiantes\obj\Debug\net9.0\refint\Gestor de estudiantes.dll
+C:\Users\Jorge Rayber Acosta\Desktop\Mendez Empanadas\Gestor de estudiantes\Gestor de estudiantes\obj\Debug\net9.0\Gestor de estudiantes.pdb
+C:\Users\Jorge Rayber Acosta\Desktop\Mendez Empanadas\Gestor de estudiantes\Gestor de estudiantes\obj\Debug\net9.0\Gestor de estudiantes.genruntimeconfig.cache
+C:\Users\Jorge Rayber Acosta\Desktop\Mendez Empanadas\Gestor de estudiantes\Gestor de estudiantes\obj\Debug\net9.0\ref\Gestor de estudiantes.dll
